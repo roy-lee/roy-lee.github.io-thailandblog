@@ -3,14 +3,11 @@ import logo from '../logo.png';
 
 import {Link} from 'react-router-dom';
 
-function toggleNav() {
-  let nav = document.getElementById("navbar-menu");
-  let className = nav.getAttribute("class");
-  if (className === "navbar-menu") {
-    nav.className = "navbar-menu is-active";
-  } else {
-    nav.className = "navbar-menu";
-  }
+function onClick() {
+  let toggle = document.querySelector(".nav-toggle");
+  let menu = document.querySelector(".navbar-menu");
+  toggle.classList.toggle("is-active");
+  menu.classList.toggle("is-active");
 }
 
 export default class Header extends Component {
@@ -36,7 +33,7 @@ export default class Header extends Component {
               </span>
             </a>
 
-            <div class="navbar-burger burger nav-toggle" onClick={toggleNav} >
+            <div class="navbar-burger burger nav-toggle" data-target="navbar-menu" onClick={onClick} >
               <span></span>
               <span></span>
               <span></span>
