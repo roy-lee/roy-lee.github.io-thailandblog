@@ -6,10 +6,10 @@ import {Link} from 'react-router-dom';
 function toggleNav() {
   let nav = document.getElementById("navbar-menu");
   let className = nav.getAttribute("class");
-  if (className === "nav-right navbar-menu") {
-    nav.className = "nav-right navbar-menu is-active";
+  if (className === "navbar-menu") {
+    nav.className = "navbar-menu is-active";
   } else {
-    nav.className = "nav-right navbar-menu";
+    nav.className = "navbar-menu";
   }
 }
 
@@ -36,14 +36,14 @@ export default class Header extends Component {
               </span>
             </a>
 
-            <div class="navbar-burger burger nav-toggle" onClick={toggleNav} data-target="navMenubd-example">
+            <div class="navbar-burger burger nav-toggle" onClick={toggleNav} >
               <span></span>
               <span></span>
               <span></span>
             </div>
           </div>
 
-          <div id="navMenubd-example" class="navbar-menu" id="navbar-menu">
+          <div class="navbar-menu" id="navbar-menu">
             <div class="navbar-start">
               <Link to="/" class="navbar-item ">Home</Link>
               <Link to="/about" class="navbar-item ">About</Link>
