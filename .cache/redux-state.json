@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/roylee/Documents/Github/roy-lee.github.io/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/roylee/Documents/Github/roy-lee.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d7baacee3122ca7f005513980b5ccdd3",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -2173,16 +2163,14 @@
           "github": "roy-lee"
         }
       },
-      "port": 8000,
-      "host": "localhost",
       "pathPrefix": "/blog",
       "polyfill": true,
-      "buildTime": "2019-04-17T17:21:32.729Z",
+      "buildTime": "2019-04-17T17:25:23.289Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e4c8325c910c84bf0ba024b81c9d0129",
+        "contentDigest": "6f627d78d33e64f5d64bc5007ff95218",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2192,7 +2180,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4e2bfb1ec1cd02c388922ddd1773074d",
+        "contentDigest": "9860f52c6ae6243aa23d7d2c0efc52bc",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2204,7 +2192,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-04-17T16:56:32.382Z",
-      "accessTime": "2019-04-17T17:21:36.114Z",
+      "accessTime": "2019-04-17T17:25:26.466Z",
       "changeTime": "2019-04-17T17:08:34.056Z",
       "birthTime": "2019-04-17T14:54:10.397Z",
       "root": "/",
@@ -2222,11 +2210,11 @@
       "blksize": 4096,
       "ino": 2173290,
       "blocks": 0,
-      "atimeMs": 1555521696113.9016,
+      "atimeMs": 1555521926466.4673,
       "mtimeMs": 1555520192382.2295,
       "ctimeMs": 1555520914055.9976,
       "birthtimeMs": 1555512850397.163,
-      "atime": "2019-04-17T17:21:36.114Z",
+      "atime": "2019-04-17T17:25:26.466Z",
       "mtime": "2019-04-17T16:56:32.382Z",
       "ctime": "2019-04-17T17:08:34.056Z",
       "birthtime": "2019-04-17T14:54:10.397Z"
@@ -2236,7 +2224,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ad576a7d291bf4bbf9952f79b508668c",
+        "contentDigest": "6bf8121cc057d663a162e65892e651d2",
         "type": "Directory",
         "description": "Directory \"content/blog/first-entry\"",
         "owner": "gatsby-source-filesystem"
@@ -2248,7 +2236,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-04-17T15:42:24.363Z",
-      "accessTime": "2019-04-17T17:21:36.116Z",
+      "accessTime": "2019-04-17T17:25:26.468Z",
       "changeTime": "2019-04-17T17:08:34.056Z",
       "birthTime": "2019-04-17T15:41:58.607Z",
       "root": "/",
@@ -2266,11 +2254,11 @@
       "blksize": 4096,
       "ino": 2173292,
       "blocks": 0,
-      "atimeMs": 1555521696115.6658,
+      "atimeMs": 1555521926468.1597,
       "mtimeMs": 1555515744362.5137,
       "ctimeMs": 1555520914055.7896,
       "birthtimeMs": 1555515718607.4858,
-      "atime": "2019-04-17T17:21:36.116Z",
+      "atime": "2019-04-17T17:25:26.468Z",
       "mtime": "2019-04-17T15:42:24.363Z",
       "ctime": "2019-04-17T17:08:34.056Z",
       "birthtime": "2019-04-17T15:41:58.607Z"
@@ -2352,7 +2340,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2d59fd49ee5bfbd7dd4da1f1aeab177a",
+        "contentDigest": "f2354e561a69a37c207930d9c4f6fb06",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -2364,7 +2352,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2019-04-17T16:36:13.349Z",
-      "accessTime": "2019-04-17T17:21:36.125Z",
+      "accessTime": "2019-04-17T17:25:26.478Z",
       "changeTime": "2019-04-17T17:08:34.061Z",
       "birthTime": "2019-04-17T14:54:10.397Z",
       "root": "/",
@@ -2382,11 +2370,11 @@
       "blksize": 4096,
       "ino": 2173294,
       "blocks": 0,
-      "atimeMs": 1555521696124.5764,
+      "atimeMs": 1555521926478.3552,
       "mtimeMs": 1555518973348.5537,
       "ctimeMs": 1555520914061.0828,
       "birthtimeMs": 1555512850396.5283,
-      "atime": "2019-04-17T17:21:36.125Z",
+      "atime": "2019-04-17T17:25:26.478Z",
       "mtime": "2019-04-17T16:36:13.349Z",
       "ctime": "2019-04-17T17:08:34.061Z",
       "birthtime": "2019-04-17T14:54:10.397Z"
@@ -2503,6 +2491,27 @@
         "contentDigest": "bf92232a35871e17aea6c316253a5127",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "jsonName": "offline-plugin-app-shell-fallback-a30",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/roylee/Documents/Github/roy-lee.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {},
+      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "componentPath": "/Users/roylee/Documents/Github/roy-lee.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e38a4ee8df83771e6ac8bfbb13acfa2c",
+        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+        "owner": "internal-data-bridge"
       }
     },
     "SitePage /first-entry/": {
@@ -2631,7 +2640,8 @@
     "index": "159/path---index-6a9-fzQtN0aRrVq3MlkcY8uoOSBhIC8",
     "first-entry-c1c": "417/path---first-entry-c-1-c-14d-sgJa2vgzaTTUjnB5CcHYxG9yZLE",
     "404-html-516": "860/path---404-html-516-62a-crqYNh37Mu9I8MDCBkRNnqnA4w",
-    "sq--src-components-bio-js": 1440825136
+    "sq--src-components-bio-js": 1440825136,
+    "offline-plugin-app-shell-fallback-a30": "604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8"
   },
   "components": {
     "/Users/roylee/Documents/Github/roy-lee.github.io/src/templates/blog-post.js": {
@@ -2639,14 +2649,6 @@
       "query": "query BlogPostBySlug(\n  $slug: String!\n) {\n  site {\n    siteMetadata {\n      title\n      author\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    excerpt(pruneLength: 160)\n    html\n    frontmatter {\n      title\n      date(formatString: \"MMMM DD, YYYY\")\n      description\n    }\n  }\n}\n",
       "pages": [
         "/first-entry/"
-      ],
-      "isInBootstrap": true
-    },
-    "/Users/roylee/Documents/Github/roy-lee.github.io/.cache/dev-404-page.js": {
-      "componentPath": "/Users/roylee/Documents/Github/roy-lee.github.io/.cache/dev-404-page.js",
-      "query": "",
-      "pages": [
-        "/dev-404-page/"
       ],
       "isInBootstrap": true
     },
@@ -2664,6 +2666,14 @@
       "query": "query usersRoyleeDocumentsGithubRoyLeeGithubIoSrcPagesIndexJs2785444898 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"MMMM DD, YYYY\")\n          title\n          description\n        }\n      }\n    }\n  }\n}\n",
       "pages": [
         "/"
+      ],
+      "isInBootstrap": true
+    },
+    "/Users/roylee/Documents/Github/roy-lee.github.io/node_modules/gatsby-plugin-offline/app-shell.js": {
+      "componentPath": "/Users/roylee/Documents/Github/roy-lee.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "query": "",
+      "pages": [
+        "/offline-plugin-app-shell-fallback/"
       ],
       "isInBootstrap": true
     }
