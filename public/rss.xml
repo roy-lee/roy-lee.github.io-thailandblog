@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Roy's Personal Blog.]]></description><link>https://roy-lee.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 17 Apr 2019 17:07:27 GMT</lastBuildDate><item><title><![CDATA[First Entry]]></title><description><![CDATA[1st attempt at trying out ReactJS + GatsbyJS + Github Pages for blogging! Gatsby Documentation Gatsby Starter Blog Gatsby with Github Pages…]]></description><link>https://roy-lee.github.io//first-entry/</link><guid isPermaLink="false">https://roy-lee.github.io//first-entry/</guid><pubDate>Wed, 17 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;1st attempt at trying out ReactJS + GatsbyJS + Github Pages for blogging!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbyjs.org/docs/&quot;&gt;Gatsby Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/gatsbyjs/gatsby-starter-blog&quot;&gt;Gatsby Starter Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/&quot;&gt;Gatsby with Github Pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Gatsby purely uses markdown for blog posts.&lt;/p&gt;
+&lt;p&gt;CSS Styles are used too, of course. But that is a concern for another day.&lt;/p&gt;</content:encoded></item></channel></rss>
