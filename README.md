@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.roy-lee.com">
+  <a href="https://www.roy-lee.com" rel="noopener noreferrer">
     <img alt="Gatsby" src="./content/assets/logo-transparent.png" width="60" />
   </a>
 </p>
@@ -16,6 +16,6 @@ Github Pages
 ```
 
 # Links
-1. <a href="https://roy-lee.com" target="_blank">Main Site</a>
-2. <a href="https://roy-lee.github.io" target="_blank">Blog</a>
-3. <a href="mailto:contact@roy-lee.com" target="_blank">Email</a>
+1. <a href="https://roy-lee.com" target="_blank" rel="noopener noreferrer">Main Site</a>
+2. <a href="https://roy-lee.github.io" target="_blank" rel="noopener noreferrer">Blog</a>
+3. <a href="mailto:contact@roy-lee.com" target="_blank" rel="noopener noreferrer">Email</a>
