@@ -39,13 +39,17 @@ function Bio() {
             />
             <p
               style={{
-                
+
               }}>
               Written by <strong>{author}</strong> who lives and studies in Singapore.
-              <br/>
+              <br />
               {` `}
-              <a href={`https://github.com/${social.github}`}>
+              <a href={`https://github.com/${social.github}`} target="_blank" rel="noopener noreferrer">
                 You can check out his Github
+              </a>
+              <br />
+              <a href={`https://${social.github}.com`} target="_blank" rel="noopener noreferrer">
+                Or his main site
               </a>
             </p>
           </div>
