@@ -1,5 +1,5 @@
 ---
-title: First Entry
+title: Hello World
 date: "2019-04-17"
 description: My 1st attempt at trying out a new way of blogging.
 ---
