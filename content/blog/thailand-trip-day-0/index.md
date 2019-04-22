@@ -1,6 +1,6 @@
 ---
 title: Bangkok Trip Day 0
-date: "2019-04-21"
+date: "2019-04-20"
 description: First solo trip to the land of smile.
 ---
 
