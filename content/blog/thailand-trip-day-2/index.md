@@ -1,7 +1,7 @@
 ---
 title: Bangkok Trip Day 2
 date: "2019-04-22"
-description: 
+description: "Free holiday?!?"
 ---
 
 Slept in in the morning till 10am. Felt very well rested. Did not rushed to go anywhere. Got washed up and set off to Siam in the noon to shop and eat.
