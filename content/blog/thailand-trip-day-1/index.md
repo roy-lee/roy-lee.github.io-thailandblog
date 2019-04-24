@@ -24,7 +24,7 @@ I was guided to seat with a local in the restaurant. After her food came, as she
 
 While returning back to hotel, as I was in the train, a female tourist fainted in the middle of the train ride. Her eyes literally rolled back and she collapsed like a dead weight. Her boyfriend tried to lift her up but she wasn't responding. After about 15 seconds later, she got up and sat on a seat. A local offered her some oilment for her to apply.
 
-PSA: Heat injury is real. Please remember to drink up every so often! Especially when the weather over here is socrching hot and you've lost plenty of water throughout the day.
+PSA: Heat injury(heatstroke) is real. Please remember to drink up every so often! Especially when the weather over here is socrching hot and you've lost plenty of water throughout the day.
 
 Overall, the locals over here are very nice! Taxi drivers as well! Even though there's some language barrier, but we still get to communicate through basic English and hand signs!
 
